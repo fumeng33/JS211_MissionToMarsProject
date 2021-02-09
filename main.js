@@ -12,11 +12,6 @@ const jobTypes = {
 // Your code will go here
 
 
-
-
-
-
-
 // Begin by reading the tests and building a function that will full each one.
 // As you build, you might not have to build them in order, maybe you do...
 // These are the tests
